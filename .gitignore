@@ -1,0 +1,9 @@
+*.log
+.env
+*.tfstate
+*.bak
+.vscode/
+.idea/
+node_modules/
+coverage/
+.DS_Store
